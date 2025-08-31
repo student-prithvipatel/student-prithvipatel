@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Prithvi Patel (student-prithvipatel)
 
-<!--
-**student-prithvipatel/student-prithvipatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Student** | 💻 **Techie** | 🔥 **Passionate**
+- 💻 Languages: **Java**, **MySQL**
+- 🚀 Current Learning: Java, AI, Cybersecurity, Cloud (**GCP**, **AWS**)
+- 🎮 Already doing Arcade in GCP
+- 🎼 Music lover
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prithvi-patel-925070353)
+- 🏋️‍♂️ Still can’t do one push-up, but can debug 100 lines of code!  
+- 📚🤖🔥
 
-Here are some ideas to get you started:
+## My Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [`carverse`](https://github.com/student-prithvipatel/carver) — My new repo
+
+---
+
+> "Student • Techie • Passionate"
